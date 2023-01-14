@@ -12,8 +12,8 @@ Swift, UIKit, Z-Shell, XCode
 
 <br>
 
-![Screenshot](.tipsy1.png?raw=true "Template Screenshot")
-![Screenshot](.tipsy2.png?raw=true "Template Screenshot")
+![Screenshot](./images/tipsy1.png?raw=true "Template Screenshot")
+![Screenshot](./images/tipsy2.png?raw=true "Template Screenshot")
 
 
 
